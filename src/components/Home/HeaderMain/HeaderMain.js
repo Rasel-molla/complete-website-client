@@ -7,8 +7,8 @@ const HeaderMain = () => {
 
 <div className="col-md-4 offset-md-1">
 
-<h1 style={{color:'#3a4256'}} id="div1"> HEALTH CARE </h1>
-<h1 id="div2">  For Hole Family </h1>
+<h1 style={{color:'#3a4256'}} id="div1" className="text-info"> HEALTH CARE </h1>
+<h1 id="div2" className="text-warning ">  For Hole Family </h1>
 <p className="text-secondary"> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum voluptates amet recusandae rerum tenetur ullam.</p>
 
 
